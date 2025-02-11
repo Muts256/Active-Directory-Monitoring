@@ -3,7 +3,7 @@
 <h2>👨‍💻 System Information and Event Management (SIEM)</h2>
 
 - <b> SIEM Installation & Configuration</b>
-  - [Brute-Force Attack on an Active Directory](https://github.com/Muts256/Active-Directory-Attack)
+  - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
 
 
 
