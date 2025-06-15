@@ -9,7 +9,7 @@
     - To enhance the analyst's practical skills using SIEM-Splunk.
     - Installation and configuration of Splunk, Active Directory, Sysmon.
     - Search and analyze events on Splunk
-    - Document findings see pdf above
+    - Document findings see Active Directory pdf above
 
 
 
