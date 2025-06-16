@@ -9,6 +9,7 @@
     - To enhance the analyst's practical skills using SIEM-Splunk.
     - Installation and configuration of Splunk, Active Directory, Sysmon.
     - Search and analyze events on Splunk
+    - Detect, analyze and investigate a Brute Force Attack
     - Document findings see Active Directory pdf above
 
 
