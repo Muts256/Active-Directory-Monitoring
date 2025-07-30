@@ -5,13 +5,14 @@
 - <b> SIEM Installation & Configuration</b>
   - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
 
-  Objectives:
-    - To enhance the analyst's practical skills using SIEM-Splunk.
-    - Installation and configuration of Splunk, Active Directory, Sysmon.
-    - Search and analyze events on Splunk
-    - Detect, analyze and investigate a Brute Force Attack
-    - Using AtomicRedTeam and MITRE ATT&CK for penetration testing
-    - Document findings see Active Directory pdf above
+
+Objectives:
+  - To enhance the analyst's practical skills using SIEM-Splunk.
+  - Installation and configuration of Splunk, Active Directory, and Sysmon.
+  - Search and analyze events on Splunk
+  - Detect, analyze, and investigate a Brute Force Attack
+  - Using AtomicRedTeam and MITRE ATT&CK for penetration testing
+  - Document findings. See the Active Directory PDF above
 
 
 
