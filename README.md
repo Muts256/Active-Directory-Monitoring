@@ -5,6 +5,7 @@
 - <b> SIEM Installation & Configuration</b>
   - [Active Directory Monitoring Using Sysmon and Splunk](https://github.com/Muts256/Active-Directory-Attack)
 
+Active Directory (AD) monitoring using Sysmon and Splunk to enhance security visibility. Configured Sysmon on the domain controller and a Windows 10 client joined to the domain to capture critical security events. This setup improves threat detection and incident response capabilities by providing deeper insights into system and user activity.
 
 Objectives:
   - To enhance the analyst's practical skills using SIEM-Splunk.
