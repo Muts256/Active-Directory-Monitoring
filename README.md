@@ -10,9 +10,9 @@ Active Directory (AD) monitoring using Sysmon and Splunk to enhance security vis
 Objectives:
   - To enhance the analyst's practical skills using SIEM-Splunk.
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
-  - Search and analyze events on Splunk
-  - Detect, analyze, and investigate a Brute Force Attack
-  - Using AtomicRedTeam and MITRE ATT&CK for penetration testing
+  - Search and analyze events on Splunk.
+  - Detect, analyze, and investigate a Brute Force Attack.
+  - Using AtomicRedTeam and MITRE ATT&CK for penetration testing.
   - Document findings. See the Active Directory PDF above
 
 
