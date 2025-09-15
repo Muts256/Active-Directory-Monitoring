@@ -15,6 +15,11 @@ Objectives:
   - Using AtomicRedTeam and MITRE ATT&CK for penetration testing.
   - Document findings. See the Active Directory PDF above
 
+Lessons Learned:
+  - Installation and configuration of Splunk, Active Directory, and Sysmon.
+  - Using MITRE ATT&CK and Atomic Red Team frameworks to generate tests
+  - Using Splunk to search for anomalies.
+  - Installation of Active Directory and Domain Services.
 
 
 
