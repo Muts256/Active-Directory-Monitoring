@@ -17,7 +17,7 @@ Tools & Technologies
   - Splunk forwarder and Sysmon installed on the AD and Windows 10 device
   - Splunk server installed on an Ubuntu server
   - Kali Linux 
-  - AtomicRedTeam and MITRE ATT&CK for penetration testing.
+  - AtomicRedTeam mapped to the MITRE ATT&CK framework for penetration testing.
     
 Lessons Learned:
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
