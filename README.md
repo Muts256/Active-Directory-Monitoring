@@ -24,7 +24,7 @@ Lessons Learned:
   - Using MITRE ATT&CK and Atomic Red Team frameworks to generate tests
   - Using Splunk to search for anomalies.
   - Installation of Active Directory and Domain Services.
-
+  <h4>For the details, open the pdf attached</h4>
 
 
     <h2> 🤳 Connect with me:</h2>
