@@ -4,14 +4,16 @@
 
 ### Active Directory Monitoring
 
-Active Directory (AD) monitoring using Sysmon and Splunk to enhance security visibility. Configured Sysmon on the domain controller, and a Windows 10 client joined to the domain to capture critical security events. This setup improves threat detection and incident response capabilities by providing deeper insights into system and user activity.
+Active Directory monitoring using Sysmon, Splunk Universal Forwarder, and Splunk provides deep visibility into authentication activity, process creation, and lateral movement across domain systems. Sysmon generates high-fidelity telemetry such as process executions, network connections, and credential access attempts that go beyond standard Windows event logging. The Splunk Universal Forwarder reliably collects and forwards this data to Splunk with minimal impact on domain controllers and member servers. Centralized analysis in Splunk enables advanced correlation, baselining, and detection of suspicious AD behaviors such as pass-the-hash or abnormal privilege escalation. Together, these tools improve threat detection accuracy and significantly reduce mean time to detect and respond to Active Directory attacks.
 
 ### Objective:
+
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
   - Search and analyze events on Splunk.
   - Detect, analyze, and investigate a Brute Force Attack.
 
-### Tools & Technologies
+### Tools & Technologies:
+
   - Active Directory (AD) on Windows Server 2025, Windows 10 device
   - Splunk forwarder and Sysmon installed on the AD and Windows 10 device
   - Splunk server installed on an Ubuntu server
@@ -19,6 +21,7 @@ Active Directory (AD) monitoring using Sysmon and Splunk to enhance security vis
   - AtomicRedTeam mapped to the MITRE ATT&CK framework for penetration testing.
     
 ### Lessons Learned:
+
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
   - Using MITRE ATT&CK and Atomic Red Team frameworks to generate tests
   - Using Splunk to search for anomalies.
