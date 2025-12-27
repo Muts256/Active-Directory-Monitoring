@@ -6,19 +6,19 @@
 
 Active Directory (AD) monitoring using Sysmon and Splunk to enhance security visibility. Configured Sysmon on the domain controller, and a Windows 10 client joined to the domain to capture critical security events. This setup improves threat detection and incident response capabilities by providing deeper insights into system and user activity.
 
-Objective:
+### Objective:
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
   - Search and analyze events on Splunk.
   - Detect, analyze, and investigate a Brute Force Attack.
 
-Tools & Technologies
+### Tools & Technologies
   - Active Directory (AD) on Windows Server 2025, Windows 10 device
   - Splunk forwarder and Sysmon installed on the AD and Windows 10 device
   - Splunk server installed on an Ubuntu server
   - Kali Linux 
   - AtomicRedTeam mapped to the MITRE ATT&CK framework for penetration testing.
     
-Lessons Learned:
+### Lessons Learned:
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
   - Using MITRE ATT&CK and Atomic Red Team frameworks to generate tests
   - Using Splunk to search for anomalies.
