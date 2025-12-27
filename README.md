@@ -19,7 +19,11 @@ Active Directory monitoring using Sysmon, Splunk Universal Forwarder, and Splunk
   - Splunk server installed on an Ubuntu server
   - Kali Linux 
   - AtomicRedTeam mapped to the MITRE ATT&CK framework for penetration testing.
-    
+
+### Topology:
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/95e0e9e79fc8c3eaaa98d5a2fb7fb13d4d32a61c/Images/AD/AD1.png)
+
 ### Lessons Learned:
 
   - Installation and configuration of Splunk, Active Directory, and Sysmon.
